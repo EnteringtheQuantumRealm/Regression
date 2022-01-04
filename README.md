@@ -1,5 +1,5 @@
 # Regression
-ML_Regression 
+ML_Regression (Linear / Non Linear Regression)
 
 Baseball_Predictions, 
 Carbon_dioxide_emission_Simple, 
